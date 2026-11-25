@@ -1,8 +1,11 @@
 # Tally Desk
 
+**Open the tool:** https://g-avinash21.github.io/tally-desk/ (or download `Tally_Desk.html`).
+
 Offline, single-file workbench for TallyPrime — bank statements to Tally, bank reconciliation, suspense clearing, GST and TDS (Income-tax Act 2025) reconciliations, and a compliance health check. Concept by Avinash G.
 
 ## Files
+
 | File | What it is |
 |---|---|
 | `Tally_Desk.html` | The tool. Open in Chrome or Edge. |
@@ -12,6 +15,7 @@ Offline, single-file workbench for TallyPrime — bank statements to Tally, bank
 | `Tally_Desk_Handbook.pdf` | Plain-language guide to every module. |
 
 ## Start
+
 1. In TallyPrime: F1 Help → Settings → Connectivity → TallyPrime acts as Server, port 9000.
 2. Unzip `Tally_Desk_Auto.zip`, run `Tally Desk Auto.bat` and keep its window open.
 3. Open `Tally_Desk.html`, click the status badge at the top and Sync. Pick the company and year.
