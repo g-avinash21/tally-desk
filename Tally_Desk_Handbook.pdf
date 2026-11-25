@@ -1,0 +1,338 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+2 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+3 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R 9 0 R 11 0 R 13 0 R 15 0 R] /Count 6 >>
+endobj
+4 0 obj
+<< /Length 3748 >>
+stream
+BT /F2 20 Tf 50 792 Td (Tally Desk - Guide & Handbook) Tj ET
+BT /F1 10 Tf 50 762 Td (What each module does, why it matters and how to use it - with a real example. Concept by Avinash) Tj ET
+BT /F1 10 Tf 50 738 Td (G.) Tj ET
+BT /F2 14 Tf 50 708 Td (Getting started) Tj ET
+BT /F1 10.5 Tf 50 688 Td (Connect Tally Desk to TallyPrime once; every module then reads and posts to the company you) Tj ET
+BT /F1 10.5 Tf 50 673.5 Td (pick.) Tj ET
+BT /F1 10.5 Tf 50 659 Td (Why: Without a connection the tool cannot see your ledgers, so dropdowns stay empty and) Tj ET
+BT /F1 10.5 Tf 50 644.5 Td (nothing can be posted.) Tj ET
+BT /F2 10.5 Tf 50 630 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 615.5 Td (1. Run "Tally Desk Auto.bat" \(keep its window open\). In TallyPrime: F1 Help > Settings >) Tj ET
+BT /F1 10.5 Tf 64 601 Td (Connectivity > TallyPrime acts as Server, port 9000.) Tj ET
+BT /F1 10.5 Tf 64 586.5 Td (2. Open the company in TallyPrime, then click the status badge at the top and Sync. Pick) Tj ET
+BT /F1 10.5 Tf 64 572 Td (the company and financial year from the top dropdowns.) Tj ET
+BT /F1 10.5 Tf 64 557.5 Td (3. Use "Clear" in a module to empty only that screen; the bin icon at the top clears) Tj ET
+BT /F1 10.5 Tf 64 543 Td (everything loaded.) Tj ET
+BT /F1 10.5 Tf 50 528.5 Td (Example: City Mart has two companies open \(2025-26 and 2026-27\). Pick "City Mart 2026-27" at) Tj ET
+BT /F1 10.5 Tf 50 508 Td (the top - every read and push now goes only to that company.) Tj ET
+BT /F2 14 Tf 50 481.5 Td (Bank Statement -> Tally) Tj ET
+BT /F1 10.5 Tf 50 461.5 Td (Turns a bank statement \(PDF, scanned PDF, Excel or CSV\) into Tally vouchers.) Tj ET
+BT /F1 10.5 Tf 50 447 Td (Why: Typing 600 bank lines by hand takes a day and goes wrong; here every line is checked) Tj ET
+BT /F1 10.5 Tf 50 432.5 Td (against the running balance before anything is posted.) Tj ET
+BT /F2 10.5 Tf 50 418 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 403.5 Td (1. Choose the bank \(NBFC loan accounts are under "NBFC / Housing Finance..."\). Enter the) Tj ET
+BT /F1 10.5 Tf 64 389 Td (PDF password if any.) Tj ET
+BT /F1 10.5 Tf 64 374.5 Td (2. Drop the statement. Scanned copies are read by the built-in OCR \(about 5 seconds a) Tj ET
+BT /F1 10.5 Tf 64 360 Td (page, nothing is uploaded\).) Tj ET
+BT /F1 10.5 Tf 64 345.5 Td (3. Check rows marked "Check" or "Unidentified", change the ledger from the dropdown, then) Tj ET
+BT /F1 10.5 Tf 64 331 Td (download the XML or push to Tally.) Tj ET
+BT /F1 10.5 Tf 50 316.5 Td (Example: Union Bank statement, 29 scanned pages: 629 lines read, 626 tie to the balance, 3 are) Tj ET
+BT /F1 10.5 Tf 50 296 Td (flagged in orange to look at. "BESCOM" lines go to Electricity Charges automatically.) Tj ET
+BT /F2 14 Tf 50 269.5 Td (Learning engine \(inside Bank Statement -> Tally\)) Tj ET
+BT /F1 10.5 Tf 50 249.5 Td (Remembers which ledger each kind of narration belongs to.) Tj ET
+BT /F1 10.5 Tf 50 235 Td (Why: Most clients pay the same people every month; once learned, those lines are never sent to) Tj ET
+BT /F1 10.5 Tf 50 220.5 Td (Suspense again.) Tj ET
+BT /F2 10.5 Tf 50 206 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 191.5 Td (1. Click "Learn from Tally books" once per client - it studies last year's bank entries) Tj ET
+BT /F1 10.5 Tf 64 177 Td (already in Tally.) Tj ET
+BT /F1 10.5 Tf 64 162.5 Td (2. After correcting rows, click "Confirm current rows & learn".) Tj ET
+BT /F1 10.5 Tf 64 148 Td (3. Export learning to carry it to another computer; Import to load it.) Tj ET
+BT /F1 10.5 Tf 50 133.5 Td (Example: Last year, UPI payments to "AMRUTHA" were posted to "Amrutha Traders". This year the) Tj ET
+BT /F1 10.5 Tf 50 113 Td (same narration lands there with "AI-learn" shown in the Check column.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 1 of 6) Tj ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 4 0 R >>
+endobj
+6 0 obj
+<< /Length 3572 >>
+stream
+BT /F2 14 Tf 50 786 Td (Bank & Smart Ledger) Tj ET
+BT /F1 10.5 Tf 50 766 Td (Paste or upload a statement and get ledger suggestions, narrations and GST splits on bank) Tj ET
+BT /F1 10.5 Tf 50 751.5 Td (charges.) Tj ET
+BT /F1 10.5 Tf 50 737 Td (Why: Quick way to clear a small statement or a few months without the full PDF flow.) Tj ET
+BT /F2 10.5 Tf 50 722.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 708 Td (1. Paste the rows \(Date, Narration, Withdrawal, Deposit, Balance\) or choose a file.) Tj ET
+BT /F1 10.5 Tf 64 693.5 Td (2. Read the "Smart knowledge" box: it tells you what each entry is, the tax pointer, and) Tj ET
+BT /F1 10.5 Tf 64 679 Td (which ledgers to create.) Tj ET
+BT /F1 10.5 Tf 64 664.5 Td (3. Fix any row, then push or download the XML.) Tj ET
+BT /F1 10.5 Tf 50 650 Td (Example: An "ITNS 281 TDS CHALLAN" line is mapped to TDS Payable; a Rs.60,000 rent payment) Tj ET
+BT /F1 10.5 Tf 50 629.5 Td (shows a TDS-watch note for 393\(1\) Sl. 2\(ii\) [194-I].) Tj ET
+BT /F2 14 Tf 50 603 Td (Multi-Bank Analyzer) Tj ET
+BT /F1 10.5 Tf 50 583 Td (Several bank accounts at once: gaps in the running balance, transfers between your own banks,) Tj ET
+BT /F1 10.5 Tf 50 568.5 Td (one combined push.) Tj ET
+BT /F1 10.5 Tf 50 554 Td (Why: Transfers between your own accounts must be one Contra entry, not a payment in one bank) Tj ET
+BT /F1 10.5 Tf 50 539.5 Td (and a receipt in the other.) Tj ET
+BT /F2 10.5 Tf 50 525 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 510.5 Td (1. Add each bank statement \(it keeps them separate by account\).) Tj ET
+BT /F1 10.5 Tf 64 496 Td (2. Look at the transfer badges - the pair is posted once as a Contra.) Tj ET
+BT /F1 10.5 Tf 64 481.5 Td (3. Export Excel or push all banks together.) Tj ET
+BT /F1 10.5 Tf 50 467 Td (Example: Rs.2,00,000 moved from HDFC to ICICI on 10-06: one Contra from HDFC is created and) Tj ET
+BT /F1 10.5 Tf 50 446.5 Td (the ICICI line is skipped.) Tj ET
+BT /F2 14 Tf 50 420 Td (Bank Reconciliation) Tj ET
+BT /F1 10.5 Tf 50 400 Td (Compares the passbook with the bank ledger in Tally and prepares the reconciliation statement.) Tj ET
+BT /F1 10.5 Tf 50 385.5 Td (Why: Every audit asks for a BRS; this finds cheques not yet presented, missing entries,) Tj ET
+BT /F1 10.5 Tf 50 371 Td (duplicates and wrong-side postings.) Tj ET
+BT /F2 10.5 Tf 50 356.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 342 Td (1. Drop the statement\(s\) - monthly files are joined by account number.) Tj ET
+BT /F1 10.5 Tf 64 327.5 Td (2. Click Reconcile. The statement and the difference list appear.) Tj ET
+BT /F1 10.5 Tf 64 313 Td (3. Push the "Missing in Tally" lines or delete true duplicates.) Tj ET
+BT /F1 10.5 Tf 50 298.5 Td (Example: Books show Rs.4,54,931; bank shows Rs.77,685. The tool explains it: one cheque of) Tj ET
+BT /F1 10.5 Tf 50 278 Td (Rs.3,77,245 issued but not yet presented - fully reconciled.) Tj ET
+BT /F2 14 Tf 50 251.5 Td (PDF Tools) Tj ET
+BT /F1 10.5 Tf 50 231.5 Td (Unlock, merge, split, rotate and check statement PDFs - offline.) Tj ET
+BT /F1 10.5 Tf 50 217 Td (Why: Banks send 12 monthly password-protected PDFs; merge them into one clean file first.) Tj ET
+BT /F2 10.5 Tf 50 202.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 188 Td (1. Add the PDFs and the password.) Tj ET
+BT /F1 10.5 Tf 64 173.5 Td (2. Pick the tool \(merge, split, remove password, rotate\).) Tj ET
+BT /F1 10.5 Tf 64 159 Td (3. Download the result.) Tj ET
+BT /F1 10.5 Tf 50 144.5 Td (Example: Twelve ICICI e-statements with the customer-ID password become one unlocked yearly) Tj ET
+BT /F1 10.5 Tf 50 124 Td (PDF.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 2 of 6) Tj ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 3148 >>
+stream
+BT /F2 14 Tf 50 786 Td (Voucher Batch Desk) Tj ET
+BT /F1 10.5 Tf 50 766 Td (Creates many balanced vouchers from one instruction: monthly spreads or daily splits.) Tj ET
+BT /F1 10.5 Tf 50 751.5 Td (Why: Spreading a year's salary or rent across months by hand is slow and error-prone.) Tj ET
+BT /F2 10.5 Tf 50 737 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 722.5 Td (1. Type the instruction or pick a preset, set the ledgers from the dropdowns.) Tj ET
+BT /F1 10.5 Tf 64 708 Td (2. Check the preview - the last row balances to the paisa.) Tj ET
+BT /F1 10.5 Tf 64 693.5 Td (3. Download Excel/XML or push.) Tj ET
+BT /F1 10.5 Tf 50 679 Td (Example: Rent Rs.3,60,000 for the year -> 12 journal entries of Rs.30,000 dated the 1st of) Tj ET
+BT /F1 10.5 Tf 50 658.5 Td (each month.) Tj ET
+BT /F2 14 Tf 50 632 Td (Suspense Clearing) Tj ET
+BT /F1 10.5 Tf 50 612 Td (Finds who actually paid each receipt sitting in Suspense.) Tj ET
+BT /F1 10.5 Tf 50 597.5 Td (Why: Clients with many similar party names \(City Mart 1, City Mart - P1Z2\) get receipts) Tj ET
+BT /F1 10.5 Tf 50 583 Td (posted to Suspense; this names the right one.) Tj ET
+BT /F2 10.5 Tf 50 568.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 554 Td (1. Click "Find matches in Tally".) Tj ET
+BT /F1 10.5 Tf 64 539.5 Td (2. Review the suggested party and the bills it settles \(score and reasons shown\).) Tj ET
+BT /F1 10.5 Tf 64 525 Td (3. Approve the confident ones and push the journals.) Tj ET
+BT /F1 10.5 Tf 50 510.5 Td (Example: Rs.50,601 from "CITY MART" via NEFT matches City Mart 1 - same remitter account as) Tj ET
+BT /F1 10.5 Tf 50 490 Td (their last six payments and it equals two open bills.) Tj ET
+BT /F2 14 Tf 50 463.5 Td (Bulk B2C / UPI & GST) Tj ET
+BT /F1 10.5 Tf 50 443.5 Td (Makes sales invoices from a list of daily UPI/B2C collections with GST back-calculated.) Tj ET
+BT /F1 10.5 Tf 50 429 Td (Why: Shops collect on UPI all day; the sales and GST must still be booked rate-wise.) Tj ET
+BT /F2 10.5 Tf 50 414.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 400 Td (1. Paste date, amount and GST rate \(or use the sample\).) Tj ET
+BT /F1 10.5 Tf 64 385.5 Td (2. Choose inclusive or exclusive GST.) Tj ET
+BT /F1 10.5 Tf 64 371 Td (3. Push - IGST, CGST and SGST go to rate-wise ledgers.) Tj ET
+BT /F1 10.5 Tf 50 356.5 Td (Example: Rs.11,800 UPI collection at 18% inclusive -> Sales Rs.10,000, CGST 9% Rs.900, SGST 9%) Tj ET
+BT /F1 10.5 Tf 50 336 Td (Rs.900.) Tj ET
+BT /F2 14 Tf 50 309.5 Td (Day Book Power Tools) Tj ET
+BT /F1 10.5 Tf 50 289.5 Td (Bulk changes on vouchers already in Tally: replace ledger, change date/type, totals,) Tj ET
+BT /F1 10.5 Tf 50 275 Td (negative-cash check.) Tj ET
+BT /F1 10.5 Tf 50 260.5 Td (Why: Fix a wrong ledger used in 200 vouchers in one go instead of opening each.) Tj ET
+BT /F2 10.5 Tf 50 246 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 231.5 Td (1. Fetch the day book for the period.) Tj ET
+BT /F1 10.5 Tf 64 217 Td (2. Select rows and choose the action.) Tj ET
+BT /F1 10.5 Tf 64 202.5 Td (3. Review and push the alteration.) Tj ET
+BT /F1 10.5 Tf 50 188 Td (Example: All "Petrol" entries moved to "Vehicle Running Expenses" in one push.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 3 of 6) Tj ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 3646 >>
+stream
+BT /F2 14 Tf 50 786 Td (Auto FIFO Bill Clearer) Tj ET
+BT /F1 10.5 Tf 50 766 Td (Adjusts "On Account" receipts and payments against the oldest open bills.) Tj ET
+BT /F1 10.5 Tf 50 751.5 Td (Why: Debtor ageing is wrong while receipts sit On Account.) Tj ET
+BT /F2 10.5 Tf 50 737 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 722.5 Td (1. Pick the party.) Tj ET
+BT /F1 10.5 Tf 64 708 Td (2. Preview the allocation \(oldest bill first\).) Tj ET
+BT /F1 10.5 Tf 64 693.5 Td (3. Push the bill-wise vouchers.) Tj ET
+BT /F1 10.5 Tf 50 679 Td (Example: City Mart paid Rs.1,00,000 on account; it clears bills of 05-04 \(Rs.60,000\) and) Tj ET
+BT /F1 10.5 Tf 50 658.5 Td (20-04 \(Rs.40,000\).) Tj ET
+BT /F2 14 Tf 50 632 Td (Depreciation \(Block of Assets\)) Tj ET
+BT /F1 10.5 Tf 50 612 Td (Income-tax depreciation block-wise, straight from the fixed-asset ledgers in Tally.) Tj ET
+BT /F1 10.5 Tf 50 597.5 Td (Why: Additions used for less than 180 days get half the rate \(s.33\(4\)\); sales reduce the) Tj ET
+BT /F1 10.5 Tf 50 583 Td (block.) Tj ET
+BT /F2 10.5 Tf 50 568.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 554 Td (1. Click "Fetch from books \(Tally\)".) Tj ET
+BT /F1 10.5 Tf 64 539.5 Td (2. Check the block rate.) Tj ET
+BT /F1 10.5 Tf 64 525 Td (3. Print or post the depreciation journal.) Tj ET
+BT /F1 10.5 Tf 50 510.5 Td (Example: Computer bought 12-11 for Rs.90,000: 40% rate, half for under 180 days -> Rs.18,000.) Tj ET
+BT /F2 14 Tf 50 484 Td (Outstandings & Dues) Tj ET
+BT /F1 10.5 Tf 50 464 Td (Ageing of receivables/payables, interest on overdue bills and reminder notes.) Tj ET
+BT /F1 10.5 Tf 50 449.5 Td (Why: Shows who to chase first and how much interest is due.) Tj ET
+BT /F2 10.5 Tf 50 435 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 420.5 Td (1. Fetch bills from Tally.) Tj ET
+BT /F1 10.5 Tf 64 406 Td (2. Set the interest rate and the as-on date.) Tj ET
+BT /F1 10.5 Tf 64 391.5 Td (3. Export the reminder text or print.) Tj ET
+BT /F1 10.5 Tf 50 377 Td (Example: City Mart: Rs.1,20,000 over 90 days old, interest at 18% for 40 days Rs.2,367.) Tj ET
+BT /F2 14 Tf 50 350.5 Td (Vertical FS \(Non-Corp\)) Tj ET
+BT /F1 10.5 Tf 50 330.5 Td (Balance sheet and P&L in the ICAI format for firms and proprietors, from the Tally trial) Tj ET
+BT /F1 10.5 Tf 50 316 Td (balance.) Tj ET
+BT /F1 10.5 Tf 50 301.5 Td (Why: Bank and tax-audit files need statements in the standard vertical format with notes.) Tj ET
+BT /F2 10.5 Tf 50 287 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 272.5 Td (1. Fetch current and previous year trial balance.) Tj ET
+BT /F1 10.5 Tf 64 258 Td (2. Check the ledger-to-note mapping.) Tj ET
+BT /F1 10.5 Tf 64 243.5 Td (3. Export Excel with live totals or print.) Tj ET
+BT /F1 10.5 Tf 50 229 Td (Example: Sundry creditors flow to the "Trade payables" note; partners' capital to Note 3.) Tj ET
+BT /F2 14 Tf 50 202.5 Td (MSME 45-Day Ageing) Tj ET
+BT /F1 10.5 Tf 50 182.5 Td (Checks payments to micro/small suppliers against the 15/45-day limit.) Tj ET
+BT /F1 10.5 Tf 50 168 Td (Why: Unpaid beyond the limit at year end is disallowed \(s.37\(2\)\(g\) [43B\(h\)]\) and) Tj ET
+BT /F1 10.5 Tf 50 153.5 Td (attracts interest under the MSMED Act.) Tj ET
+BT /F2 10.5 Tf 50 139 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 124.5 Td (1. Fetch creditor bills from Tally and mark MSME suppliers.) Tj ET
+BT /F1 10.5 Tf 64 110 Td (2. Compute ageing.) Tj ET
+BT /F1 10.5 Tf 64 95.5 Td (3. Pay or provide for the flagged bills; download the note.) Tj ET
+BT /F1 10.5 Tf 50 81 Td (Example: Bill of 10-02 from a micro supplier, no agreement: due 25-02; unpaid on 31-03 ->) Tj ET
+BT /F1 10.5 Tf 50 60.5 Td (disallowed this year, allowed when paid.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 4 of 6) Tj ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 3526 >>
+stream
+BT /F2 14 Tf 50 786 Td (Invoice Staging Gate) Tj ET
+BT /F1 10.5 Tf 50 766 Td (Purchase invoices wait here and are checked before posting.) Tj ET
+BT /F1 10.5 Tf 50 751.5 Td (Why: Stops duplicate bills, wrong GSTINs and tax mistakes reaching the books.) Tj ET
+BT /F2 10.5 Tf 50 737 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 722.5 Td (1. Paste or import invoices.) Tj ET
+BT /F1 10.5 Tf 64 708 Td (2. Fix rows marked Duplicate or Mismatch.) Tj ET
+BT /F1 10.5 Tf 64 693.5 Td (3. Export only the approved ones.) Tj ET
+BT /F1 10.5 Tf 50 679 Td (Example: Same bill number from the same GSTIN twice - the second is blocked as a duplicate.) Tj ET
+BT /F2 14 Tf 50 652.5 Td (Monthly Expenses) Tj ET
+BT /F1 10.5 Tf 50 632.5 Td (Generates recurring monthly expense entries from last year's actuals or fixed amounts.) Tj ET
+BT /F1 10.5 Tf 50 618 Td (Why: Rent, salary, internet - the same entries every month.) Tj ET
+BT /F2 10.5 Tf 50 603.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 589 Td (1. Load the recurring ledgers from Tally.) Tj ET
+BT /F1 10.5 Tf 64 574.5 Td (2. Fill the monthly amounts.) Tj ET
+BT /F1 10.5 Tf 64 560 Td (3. Confirm and push \(duplicate months are blocked\).) Tj ET
+BT /F1 10.5 Tf 50 545.5 Td (Example: Internet Rs.1,180 every month from April to March in one click.) Tj ET
+BT /F2 14 Tf 50 519 Td (Compliance Health) Tj ET
+BT /F1 10.5 Tf 50 499 Td (Scans the books for income-tax, TDS, GST and bookkeeping problems - read-only.) Tj ET
+BT /F1 10.5 Tf 50 484.5 Td (Why: Finds notice-worthy issues before the department or the auditor does.) Tj ET
+BT /F2 10.5 Tf 50 470 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 455.5 Td (1. Pick the year at the top and click "Scan books in Tally".) Tj ET
+BT /F1 10.5 Tf 64 441 Td (2. Open each High-risk card: items, law and amount at risk.) Tj ET
+BT /F1 10.5 Tf 64 426.5 Td (3. Fix in Tally and scan again; export to Excel for the file.) Tj ET
+BT /F1 10.5 Tf 50 412 Td (Example: Cash payment of Rs.15,000 to Contract Labour on one day -> s.36\(4\) [40A\(3\)]; rent) Tj ET
+BT /F1 10.5 Tf 50 391.5 Td (Rs.60,000 with no TDS -> 393\(1\) Sl. 2\(ii\) [194-I].) Tj ET
+BT /F2 14 Tf 50 365 Td (GSTR-2B / 2A / IMS Recon) Tj ET
+BT /F1 10.5 Tf 50 345 Td (Matches purchase invoices in the books with the GST portal files.) Tj ET
+BT /F1 10.5 Tf 50 330.5 Td (Why: Credit can be taken only for invoices in GSTR-2B.) Tj ET
+BT /F2 10.5 Tf 50 316 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 301.5 Td (1. Download 2B/2A JSON or Excel from the portal; drop them here with the books.) Tj ET
+BT /F1 10.5 Tf 64 287 Td (2. Run the match.) Tj ET
+BT /F1 10.5 Tf 64 272.5 Td (3. Follow up the "not in 2B" suppliers; accept or reject in IMS.) Tj ET
+BT /F1 10.5 Tf 50 258 Td (Example: Invoice CM/221 of Rs.11,800 is in books but not in 2B - supplier has not filed; hold) Tj ET
+BT /F1 10.5 Tf 50 237.5 Td (the credit.) Tj ET
+BT /F2 14 Tf 50 211 Td (IT Act 2025 Auto-TDS) Tj ET
+BT /F1 10.5 Tf 50 191 Td (Works out TDS by section and threshold and posts catch-up deductions.) Tj ET
+BT /F1 10.5 Tf 50 176.5 Td (Why: Missing TDS disallows 30% of the expense \(s.35\(b\)\(i\)\) and brings interest.) Tj ET
+BT /F2 10.5 Tf 50 162 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 147.5 Td (1. Paste or fetch party payments.) Tj ET
+BT /F1 10.5 Tf 64 133 Td (2. Check section, PAN and limits.) Tj ET
+BT /F1 10.5 Tf 64 118.5 Td (3. Post the TDS journals.) Tj ET
+BT /F1 10.5 Tf 50 104 Td (Example: Contractor bills Rs.25,000 x4 = Rs.1,00,000 crosses the yearly limit -> 1% TDS on all) Tj ET
+BT /F1 10.5 Tf 50 83.5 Td (four.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 5 of 6) Tj ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 3016 >>
+stream
+BT /F2 14 Tf 50 786 Td (GSTR-2A/2B + Auto TDS) Tj ET
+BT /F1 10.5 Tf 50 766 Td (Imports purchase invoices from the portal into Tally with rate-wise GST and TDS where due.) Tj ET
+BT /F1 10.5 Tf 50 751.5 Td (Why: Saves typing every purchase bill.) Tj ET
+BT /F2 10.5 Tf 50 737 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 722.5 Td (1. Drop the 2B file.) Tj ET
+BT /F1 10.5 Tf 64 708 Td (2. Map suppliers to ledgers from the dropdown.) Tj ET
+BT /F1 10.5 Tf 64 693.5 Td (3. Push the purchases.) Tj ET
+BT /F1 10.5 Tf 50 679 Td (Example: 40 invoices from 2B become 40 purchase vouchers with CGST/SGST per rate.) Tj ET
+BT /F2 14 Tf 50 652.5 Td (HSN B2B & B2C Report) Tj ET
+BT /F1 10.5 Tf 50 632.5 Td (HSN-wise summary of outward supplies for GSTR-1 \(Table 12\).) Tj ET
+BT /F1 10.5 Tf 50 618 Td (Why: GSTR-1 needs HSN summaries split B2B and B2C.) Tj ET
+BT /F2 10.5 Tf 50 603.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 589 Td (1. Fetch sales from Tally.) Tj ET
+BT /F1 10.5 Tf 64 574.5 Td (2. Check HSN codes.) Tj ET
+BT /F1 10.5 Tf 64 560 Td (3. Export.) Tj ET
+BT /F1 10.5 Tf 50 545.5 Td (Example: HSN 0401 milk B2C Rs.4,20,000 nil-rated; HSN 2105 ice cream B2B Rs.1,80,000 at 18%.) Tj ET
+BT /F2 14 Tf 50 519 Td (Form 26AS TDS Reco) Tj ET
+BT /F1 10.5 Tf 50 499 Td (Matches TDS deducted by customers \(26AS/AIS\) with TDS receivable in the books.) Tj ET
+BT /F1 10.5 Tf 50 484.5 Td (Why: Unmatched TDS cannot be claimed in the return.) Tj ET
+BT /F2 10.5 Tf 50 470 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 455.5 Td (1. Drop the 26AS/ATS text, Excel or PDF.) Tj ET
+BT /F1 10.5 Tf 64 441 Td (2. Fetch TDS receivable from Tally.) Tj ET
+BT /F1 10.5 Tf 64 426.5 Td (3. Post the missing entries.) Tj ET
+BT /F1 10.5 Tf 50 412 Td (Example: 26AS shows Rs.12,000 from City Mart under 194Q; books have none -> entry posted.) Tj ET
+BT /F2 14 Tf 50 385.5 Td (Push History & Undo) Tj ET
+BT /F1 10.5 Tf 50 365.5 Td (Every push is logged; undo a batch if it went wrong.) Tj ET
+BT /F1 10.5 Tf 50 351 Td (Why: A safety net for bulk posting.) Tj ET
+BT /F2 10.5 Tf 50 336.5 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 322 Td (1. Open the batch.) Tj ET
+BT /F1 10.5 Tf 64 307.5 Td (2. Check what it posted.) Tj ET
+BT /F1 10.5 Tf 64 293 Td (3. Undo - it deletes exactly those vouchers.) Tj ET
+BT /F1 10.5 Tf 50 278.5 Td (Example: Wrong bank chosen for 120 entries -> undo that batch and push again.) Tj ET
+BT /F2 14 Tf 50 252 Td (AI / MCP Approval Gate) Tj ET
+BT /F1 10.5 Tf 50 232 Td (Lets Claude \(or another AI\) prepare entries that you approve before they reach Tally.) Tj ET
+BT /F1 10.5 Tf 50 217.5 Td (Why: AI helps, but nothing is posted without your click.) Tj ET
+BT /F2 10.5 Tf 50 203 Td (How:) Tj ET
+BT /F1 10.5 Tf 64 188.5 Td (1. Run the MCP server from the zip.) Tj ET
+BT /F1 10.5 Tf 64 174 Td (2. Ask the AI for suspense matches or entries.) Tj ET
+BT /F1 10.5 Tf 64 159.5 Td (3. Approve or reject each draft here.) Tj ET
+BT /F1 10.5 Tf 50 145 Td (Example: The AI proposes 14 suspense clearings; you approve 12 and reject 2.) Tj ET
+BT /F1 9 Tf 277.5 25 Td (Page 6 of 6) Tj ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 3 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 1 0 R /F2 2 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Type /Catalog /Pages 3 0 R >>
+endobj
+xref
+0 17
+0000000000 65535 f 
+0000000009 00000 n 
+0000000106 00000 n 
+0000000208 00000 n 
+0000000298 00000 n 
+0000004098 00000 n 
+0000004234 00000 n 
+0000007858 00000 n 
+0000007994 00000 n 
+0000011194 00000 n 
+0000011330 00000 n 
+0000015029 00000 n 
+0000015167 00000 n 
+0000018746 00000 n 
+0000018884 00000 n 
+0000021953 00000 n 
+0000022091 00000 n 
+trailer
+<< /Size 17 /Root 16 0 R >>
+startxref
+22141
+%%EOF
