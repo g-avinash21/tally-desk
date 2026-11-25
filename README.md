@@ -7,7 +7,7 @@ Offline, single-file workbench for TallyPrime — bank statements to Tally, bank
 |---|---|
 | `Tally_Desk.html` | The tool. Open in Chrome or Edge. |
 | `Tally_Desk_Auto.zip` | The tool + `Tally Desk Auto.bat` (connects to TallyPrime on port 9000). Unzip once and run the .bat. |
-| `Tally_Desk_MCP.zip` | Optional MCP server so an AI assistant can draft entries that you approve. |
+| `Tally_Desk_MCP.zip` | Optional MCP server so an AI assistant can read your books and draft entries or ledgers that you approve. Kill switch (`read_only`), blocked ledgers, duplicate refusal, read-back from Tally after posting. See `MCP Setup.txt` inside. |
 | `Tally_Desk_AI_Pack.tdpack` | Optional AI pack (≈19 MB). Install inside the tool: Bank Statement → Tally → Learning Engine → Install from pack file. |
 | `Tally_Desk_Handbook.pdf` | Plain-language guide to every module. |
 
